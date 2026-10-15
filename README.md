@@ -30,7 +30,7 @@ Si trabajas en GitLab, crea un proyecto privado, descarga esta plantilla con **C
 
 ## Commits
 
-- Mínimo **seis commits**, repartidos en las tres semanas: al menos dos por semana.
+- Mínimo **seis commits**, repartidos en las tres semanas: al menos dos por semana. No cuentan el commit inicial que crea GitHub ni el de añadir tu nombre.
 - Cada commit corresponde a un avance concreto. Haz el commit cuando termines ese avance, no al final de la tarea.
 - El mensaje dice qué has hecho, en infinitivo y de forma concreta.
 
