@@ -1,6 +1,7 @@
 # DIW · U1 · E2 · Tostadero Alcor
 
 **Alumno/a:** _escribe aquí tu nombre y apellidos_
+
 **Enlace al archivo de Penpot:** _pega aquí el enlace_
 
 Este repositorio recoge el historial de trabajo de la tarea E2. Cada entregable tiene su carpeta; dentro de cada una hay un `README.md` que explica qué va en ella.
